@@ -36,6 +36,20 @@ I think experience is not the most important asset, but the ability to learn and
 
 **Reflection is the biggest difference between humans and animals.**
 
+<h3 align="left">📔 My Blog posts:</h3>
+
+<!-- BLOG-POST-LIST:START -->
+- HTTP/3 client library for OpenResty
+- Implement GRPC Client in Rust for Openresty
+- Analyze Lua Memory Leak With Systemtap
+- OpenResty: record the Lua execution time per request in ngx.ctx via LD_PRELOAD
+- Json vs Flatbuffers vs Protobuf in Lua
+- Learn Rust From Assembly Code
+- Learn Async Rust From Assembly Code
+- Gdb Black Magics
+- Vim Minimalist
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jinhua-luo-b52b6bbb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jinhua-luo-b52b6bbb/" height="30" width="40" /></a>
