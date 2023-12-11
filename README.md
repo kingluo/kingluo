@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I like watching David Lynch and Quentin Tarantino movies.**
 
-I think experience is not the most important asset, but the ability to learn and innovate. My career is very long, and I am faced with a lot of knowledge. If I just learn and memorize knowledge, I cannot maintain my professional advantage. When I encounter a problem to overcome but have no clue, I like to go back to the essence of the matter to rethink, jump out of the existing framework, and escape the shackles of experience. Facts have proved that this has helped me achieve success again and again. success.
+I think experience is not the most important asset, but the ability to learn and innovate. My career is very long, and I am faced with a lot of knowledge. If I just learn and memorize knowledge, I cannot maintain my professional advantage. When I encounter a problem to overcome but have no clue, I like to go back to the essence of the matter to rethink, jump out of the existing framework, and escape the shackles of experience. Facts have proved that this has helped me achieve success again and again.
 
 **Reflection is the biggest difference between humans and animals.**
 
