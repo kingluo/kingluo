@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://github.com/kingluo/myresume/blob/master/README.md](https://github.com/kingluo/myresume/blob/master/README.md)
 
-- ⚡ Fun fact **I like watching David Lynch and Quentin Tarantino movies.**
+- ⚡ Fun fact **I like watching [David Lynch](https://www.imdb.com/title/tt0166924/) and [Quentin Tarantino](https://www.imdb.com/title/tt3460252/) movies.**
 
 I think experience is not the most important asset, but the ability to learn and innovate. My career is very long, and I am faced with a lot of knowledge. If I just learn and memorize knowledge, I cannot maintain my professional advantage. When I encounter a problem to overcome but have no clue, I like to go back to the essence of the matter to rethink, jump out of the existing framework, and escape the shackles of experience. Facts have proved that this has helped me achieve success again and again.
 
