@@ -39,15 +39,15 @@ I think experience is not the most important asset, but the ability to learn and
 <h3 align="left">📔 My Blog posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- HTTP/3 client library for OpenResty
-- Implement GRPC Client in Rust for Openresty
-- Analyze Lua Memory Leak With Systemtap
-- OpenResty: record the Lua execution time per request in ngx.ctx via LD_PRELOAD
-- Json vs Flatbuffers vs Protobuf in Lua
-- Learn Rust From Assembly Code
-- Learn Async Rust From Assembly Code
-- Gdb Black Magics
-- Vim Minimalist
+- [HTTP/3 client library for OpenResty](http://luajit.io/posts/http3-client-for-openresty/)
+- [Implement GRPC Client in Rust for Openresty](http://luajit.io/posts/implement-grpc-client-in-rust-for-openresty/)
+- [Analyze Lua Memory Leak With Systemtap](http://luajit.io/posts/analyze-lua-memory-leak-with-systemtap/)
+- [OpenResty: record the Lua execution time per request in ngx.ctx via LD_PRELOAD](http://luajit.io/posts/openresty-lua-request-time/)
+- [Json vs Flatbuffers vs Protobuf in Lua](http://luajit.io/posts/json-vs-flatbuffers-in-lua/)
+- [Learn Rust From Assembly Code](http://luajit.io/posts/learn-rust-from-assembly-code/)
+- [Learn Async Rust From Assembly Code](http://luajit.io/posts/learn-async-rust-from-assembly-code/)
+- [Gdb Black Magics](http://luajit.io/posts/gdb-black-magics/)
+- [Vim Minimalist](http://luajit.io/posts/vim-minimalist/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
