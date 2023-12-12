@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I am currently an independent Postgresql and Nginx technical consultant.
 
-- 🌱 I’m currently learning **ebpf, k8s, and istio.**
+- 🌱 I’m currently learning **[eBPF](https://ebpf.io/), [k8s](https://kubernetes.io/), and [cilium](https://cilium.io/).**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kingluo](https://github.com/kingluo)
 
@@ -36,6 +36,25 @@ I think experience is not the most important asset, but the ability to learn and
 
 **Reflection is the biggest difference between humans and animals.**
 
+<h3 align="left">📔 My tech stack:</h3>
+
+* Database
+  * PostgreSQL
+    * extensions, e.g. cross data-center replication and conflict resolution.
+    * proxy-less sharding.
+    * agent-less cluster management using raft and gossip, e.g. failover.
+  * Mysql proxy (sharding, failover, and replication)
+* C/C++
+  * Linux Kernel Development, e.g. ARMv9 drivers, [DRBD](https://linbit.com/drbd/), Netfilter target module.
+  * High-performance networking platform (Boost/Asio, meta-programming)
+  * Linux HA, LVS
+* Go/Python/Rust
+* Nginx/Envoy
+  * [openresty](https://github.com/openresty/lua-nginx-module/pulls?q=is%3Apr+author%3A%40me)
+  * [apisix](https://github.com/apache/apisix/pulls?q=+is%3Apr+author%3A%40me+is%3Amerged)
+  * [envoy](http://luajit.io/posts/make-lua-resty-ffi-run-on-envoy/)
+* tracing with [systemtap](https://github.com/api7/stapxx/pulls?q=+is%3Apr+author%3A%40me+) and perf
+
 <h3 align="left">📔 My Blog posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
@@ -49,22 +68,6 @@ I think experience is not the most important asset, but the ability to learn and
 - [Gdb Black Magics](http://luajit.io/posts/gdb-black-magics/)
 - [Vim Minimalist](http://luajit.io/posts/vim-minimalist/)
 <!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Programming languages and tech stack:</h3>
-
-* Database
-  * PostgreSQL
-    * extensions, e.g. cross data-center replication and conflict resolution.
-    * proxy-less sharding.
-    * agent-less cluster management using raft and gossip, e.g. failover.
-  * Mysql proxy (sharding, failover, and replication)
-* C/C++
-  * Linux Kernel Development, e.g. ARMv9 drivers, DRBD, Netfilter target module.
-  * High-performance networking platform (Boost/Asio, meta-programming)
-  * Linux HA, LVS
-* Go/Python/Rust
-* Nginx/Envoy
-* tracing with systemtap and perf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
