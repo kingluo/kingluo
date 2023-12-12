@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jinhua Luo.</h1>
 <h3 align="center">A passionate backend developer from China</h3>
 
-- 🔭 I’m currently working on [API7](https://api7.ai/)
+- 🔭 I am currently an independent Postgresql and Nginx technical consultant.
 
-- 🌱 I’m currently learning **k8s and istio.**
+- 🌱 I’m currently learning **ebpf, k8s, and istio.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kingluo](https://github.com/kingluo)
 
 - 📝 I regularly write articles on [http://luajit.io](http://luajit.io)
 
-- 💬 Ask me about **Nginx, Openresty, Luajit, Envoy or anything you like.**
+- 💬 Ask me about **Postgresql, Nginx, Openresty, Luajit, Envoy, or anything you like.**
 
 - 📫 How to reach me **luajit.io@gmail.com**
 
@@ -49,6 +49,22 @@ I think experience is not the most important asset, but the ability to learn and
 - [Gdb Black Magics](http://luajit.io/posts/gdb-black-magics/)
 - [Vim Minimalist](http://luajit.io/posts/vim-minimalist/)
 <!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Programming languages and tech stack:</h3>
+
+* Database
+  * PostgreSQL
+    * extensions, e.g. cross data-center replication and conflict resolution.
+    * proxy-less sharding.
+    * agent-less cluster management using raft and gossip, e.g. failover.
+  * Mysql proxy (sharding, failover, and replication)
+* C/C++
+  * Linux Kernel Development, e.g. ARMv9 drivers, DRBD, Netfilter target module.
+  * High-performance networking platform (Boost/Asio, meta-programming)
+  * Linux HA, LVS
+* Go/Python/Rust
+* Nginx/Envoy
+* tracing with systemtap and perf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
