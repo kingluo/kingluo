@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Postgresql, Nginx, Openresty, Luajit, Envoy, or anything you like.**
 
-- 📫 How to reach me **luajit.io@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/jinhua-luo-b52b6bbb/**
 
 - 📄 Know about my experiences [https://github.com/kingluo/myresume/blob/master/README.md](https://github.com/kingluo/myresume/blob/master/README.md)
 
@@ -68,10 +68,3 @@ I think experience is not the most important asset, but the ability to learn and
 - [Gdb Black Magics](http://luajit.io/posts/gdb-black-magics/)
 - [Vim Minimalist](http://luajit.io/posts/vim-minimalist/)
 <!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jinhua-luo-b52b6bbb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jinhua-luo-b52b6bbb/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/5055251/kingluo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/5055251/kingluo" height="30" width="40" /></a>
-</p>
-
