@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jinhua Luo.</h1>
 <h3 align="center">A passionate backend developer from China</h3>
 
-- 🔭 I am currently an independent Postgresql and Nginx technical consultant.
+- 🔭 I am currently a linux kernel developer.
 
 - 🌱 I’m currently learning **[eBPF](https://ebpf.io/), [k8s](https://kubernetes.io/), and [cilium](https://cilium.io/).**
 
@@ -32,28 +32,15 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I like watching [David Lynch](https://www.imdb.com/title/tt0166924/) and [Quentin Tarantino](https://www.imdb.com/title/tt3460252/) movies.**
 
-I think experience is not the most important asset, but the ability to learn and innovate. My career is very long, and I am faced with a lot of knowledge. If I just learn and memorize knowledge, I cannot maintain my professional advantage. When I encounter a problem to overcome but have no clue, I like to go back to the essence of the matter to rethink, jump out of the existing framework, and escape the shackles of experience. Facts have proved that this has helped me achieve success again and again.
+<h3 align="left">📔 My main tech stack:</h3>
 
-**Reflection is the biggest difference between humans and animals.**
-
-<h3 align="left">📔 My tech stack:</h3>
-
-* Database
-  * PostgreSQL
-    * extensions, e.g. cross data-center replication and conflict resolution.
-    * proxy-less sharding.
-    * agent-less cluster management using raft and gossip, e.g. failover.
-  * Mysql proxy (sharding, failover, and replication)
-* C/C++
-  * Linux Kernel Development, e.g. ARMv9 drivers, [DRBD](https://linbit.com/drbd/), Netfilter target module.
-  * High-performance networking platform (Boost/Asio, meta-programming)
-  * Linux HA, LVS
-* Go/Python/Rust
+* PostgreSQL
+  * extensions, e.g. cross data-center replication and conflict resolution.
+  * proxy-less sharding.
+  * agent-less cluster management using raft and gossip, e.g. failover.
 * Nginx/Envoy
   * [openresty](https://github.com/openresty/lua-nginx-module/pulls?q=is%3Apr+author%3A%40me)
-  * [apisix](https://github.com/apache/apisix/pulls?q=+is%3Apr+author%3A%40me+is%3Amerged)
   * [envoy](http://luajit.io/posts/make-lua-resty-ffi-run-on-envoy/)
-* tracing with [systemtap](https://github.com/api7/stapxx/pulls?q=+is%3Apr+author%3A%40me+) and perf
 
 <h3 align="left">📔 My Blog posts:</h3>
 
