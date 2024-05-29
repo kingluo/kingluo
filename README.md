@@ -18,17 +18,9 @@ Here are some ideas to get you started:
 
 - 🔭 I am currently a linux kernel developer.
 
-- 🌱 I’m currently learning **[eBPF](https://ebpf.io/), [k8s](https://kubernetes.io/), and [cilium](https://cilium.io/).**
-
-- 👨‍💻 All of my projects are available at [https://github.com/kingluo](https://github.com/kingluo)
-
 - 📝 I regularly write articles on [http://luajit.io](http://luajit.io)
 
-- 💬 Ask me about **Postgresql, Nginx, Openresty, Luajit, Envoy, or anything you like.**
-
 - 📫 How to reach me **https://www.linkedin.com/in/jinhua-luo-b52b6bbb/**
-
-- 📄 Know about my experiences [https://github.com/kingluo/myresume/blob/master/README.md](https://github.com/kingluo/myresume/blob/master/README.md)
 
 - ⚡ Fun fact **I like watching [David Lynch](https://www.imdb.com/title/tt0166924/) and [Quentin Tarantino](https://www.imdb.com/title/tt3460252/) movies.**
 
