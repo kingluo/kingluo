@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jinhua Luo.</h1>
 <h3 align="center">A passionate backend developer from China</h3>
 
-- 🔭 I am currently a linux kernel developer.
+- 🔭 I am currently a freelancer.
 
 - 📝 I regularly write articles on [http://luajit.io](http://luajit.io)
 
