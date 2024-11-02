@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 
 <h3 align="left">📔 My main tech stack:</h3>
 
-* PostgreSQL
-  * extensions, e.g. cross data-center replication and conflict resolution.
-  * proxy-less sharding.
-  * agent-less cluster management using raft and gossip, e.g. failover.
-* Nginx/Envoy
-  * [openresty](https://github.com/openresty/lua-nginx-module/pulls?q=is%3Apr+author%3A%40me)
-  * [envoy](http://luajit.io/posts/make-lua-resty-ffi-run-on-envoy/)
+* [PostgreSQL](https://github.com/kingluo/pgcat)
+* [Nginx/Openresty](https://github.com/openresty/lua-nginx-module/pulls?q=is%3Apr+author%3A%40me)
+* [Envoy](http://luajit.io/posts/make-lua-resty-ffi-run-on-envoy/)
+* [Linux Kernel](https://github.com/tempesta-tech/tempesta)
+
+<h3 align="left">📔 Programming languages:</h3>
+C/C++, Go, Python, Rust, Lua, Bash.
 
 <h3 align="left">📔 My Blog posts:</h3>
 
